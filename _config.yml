@@ -38,6 +38,7 @@ header_pages:
   - bio.md
   - misc.md
   - contacts.md
+  - test.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
