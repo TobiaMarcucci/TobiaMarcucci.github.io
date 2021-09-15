@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **Shortest paths in graphs of convex sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. ArXiv. 2021.  
-[[arXiv]](https://arxiv.org/abs/2101.11565)
+[[pdf]](https://arxiv.org/abs/2101.11565)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
@@ -26,7 +26,7 @@ Tobia Marcucci, Manolo Garabini, Gian Maria Gasparri, Alessio Artoni, Marco Gabi
 
 **Approximate Hybrid Model Predictive Control for Multi-Contact Push Recovery in Complex Environments**  
  Tobia Marcucci, Robin Deits, Marco Gabiccini, Antonio Bicchi, and Russ Tedrake. IEEE International Conference on Humanoid Robots (Humanoids). 2017.  
-[[arXiv]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci17.pdf)
+[[pdf]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci17.pdf)
 [[code]](https://github.com/TobiaMarcucci/pympc/tree/humanoids2017)
 
 **Approximate Explicit Model Predictive Control for Push Recovery Using Mixed-Integer Convex Optimization**  
