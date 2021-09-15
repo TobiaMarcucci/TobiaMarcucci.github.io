@@ -6,7 +6,7 @@ permalink: "/misc"
 
 **Teaching Experience:**
 
-- Guest lecturer for "Optimal Control: from Calculus of Variations to Numerical Optimization," taught by Manolo Garabini at University of Pisa (summer 2020). (Lecture available [here](https://github.com/TobiaMarcucci/optimal_control_pisa).)
+- Guest lecturer for "Optimal Control: from Calculus of Variations to Numerical Optimization," taught by Manolo Garabini at University of Pisa (summer 2020). (Lecture material available [here](https://github.com/TobiaMarcucci/optimal_control_pisa).)
 
 - Teaching assistant for "[6.832 - Underactuated  Robotics](http://underactuated.csail.mit.edu)," taught by Russ Tedrake at Massachusetts Institute of Technology (spring 2020).
 (Lectures available on the [Uderactuated YouTube channel](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists).)
