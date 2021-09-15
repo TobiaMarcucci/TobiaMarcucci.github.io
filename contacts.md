@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contacts"
-permalink: "/test"
+permalink: "/contacts"
 ---
 
 - Email: tobiam AT mit DOT edu.
