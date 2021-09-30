@@ -7,7 +7,7 @@ permalink: "/publications"
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
 **Shortest paths in graphs of convex sets**  
-Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. ArXiv. 2021.  
+Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. Under review in Mathematical Programming, preprint available on ArXiv. 2021.  
 [[pdf]](https://arxiv.org/abs/2101.11565)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
