@@ -6,7 +6,12 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
-**Shortest paths in graphs of convex sets**  
+**Motion Planning around Obstacles with Convex Optimization**  
+Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and Russ Tedrake<sup>\*</sup>. Preprint available on ArXiv. 2022.
+[[pdf]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci22.pdf)
+[[code]](https://github.com/mpetersen94/gcs)
+
+**Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. Under review in Mathematical Programming, preprint available on ArXiv. 2021.  
 [[pdf]](https://arxiv.org/abs/2101.11565)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
