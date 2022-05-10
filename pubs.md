@@ -13,7 +13,7 @@ Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and 
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. Under review in Mathematical Programming, preprint available on ArXiv. 2021.  
-[[pdf]](https://arxiv.org/abs/2101.11565)
+[[pdf]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci21.pdf)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
