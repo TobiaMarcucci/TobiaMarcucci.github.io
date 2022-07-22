@@ -13,4 +13,4 @@ From 2015 to 2017 I was a PhD student in robotics at the [Research Center E. Pia
 Since 2017 I am at the [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu), Massachusetts Institute of Technology (MIT), to continue my PhD studies; my major is in computer science and my minor in mathematics.
 My main research interests are control theory, numerical optimization, and robotics.
 
-Curriculum vitae: <a href="https://tobiamarcucci.github.io/marcucci_cv.pdf" target="_blank">marcucci_cv.pdf</a>.
+CV available at: <a href="https://tobiamarcucci.github.io/marcucci_cv.pdf" target="_blank">https://tobiamarcucci.github.io/cv.pdf</a>
