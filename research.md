@@ -4,11 +4,15 @@ title: "Research"
 permalink: "/research"
 ---
 
-My research sits at the intersection of [control theory](https://en.wikipedia.org/wiki/Control_theory), [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization), and [convex optimization](https://en.wikipedia.org/wiki/Convex_optimization).
-Specifically, I study how optimal control problems for [hybrid dynamical systems](https://en.wikipedia.org/wiki/Hybrid_system) can be efficiently formulated and solved, [exactly](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci18.pdf) or [approximately](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci17.pdf).
-Even though the control community has produced a massive body of work on this topic in the last 20 years, we are only starting to see the [full potential of some classical concepts and techniques from combinatorics and integer programming](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci21.pdf).
-Also the [peculiar temporal structure of the problems at hand](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci19.pdf) plays an extremely important role, yet to be fully explored.
-Ultimately, I aim at filling these gaps.
+My research sits at the intersection of convex and combinatorial optimization, with applications to robotics, optimal control, and motion planning.
+Specifically, I study optimal decision making in circumstances where discrete and continuous choices have to be taken simultaneously and cohesively.
+I work on these problems on a mathematical and numerical level: I develop versatile modeling frameworks, I devise efficient transcriptions as numerical optimizations, and I design fast optimization algorithms (either exact or approximate).
 
-In [our laboratory](http://groups.csail.mit.edu/locomotion/), we use numerical optimization to solve robot manipulation and locomotion problems.
+The main outcome of my PhD has been the [shortest-path problem in graphs of convex sets](https://arxiv.org/pdf/2101.11565).
+This novel optimization framework generalizes a variety of important problems in robot navigation, in control of hybrid systems, and in many other areas.
+This simple but highly expressive class of problems can be tackled very effectively through a careful blend of network-flow and convex optimization.
+Its application to robotics has already enabled us to [solve complex motion-planning problems with unprecedented efficiency](https://arxiv.org/pdf/2205.04422.pdf).
+
+[Our laboratory](http://groups.csail.mit.edu/locomotion/) is mainly focused on robotics.
+We use of cutting-edge numerical optimization to solve manipulation and locomotion problems.
 Never before has robotics posed such challenging and stimulating issues: our ambitious goal is to solve them using rigorous mathematics.
