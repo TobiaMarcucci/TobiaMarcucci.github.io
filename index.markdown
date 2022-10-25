@@ -9,6 +9,5 @@ layout: page
 <img src="me.jpg" alt="drawing" width="350px"/>
 </p>
 
-I am a PhD student at the [Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu) (CSAIL) at MIT.
-I work with the [Robot Locomotion Group](http://groups.csail.mit.edu/locomotion/) under the supervision of [Russ Tedrake](http://groups.csail.mit.edu/locomotion/russt.html) and collaborating with [Pablo Parrilo](https://www.mit.edu/~parrilo/).
-Starting from November 2022 I will be visiting Stanford University to work with [Stephen Boyd](https://web.stanford.edu/~boyd/).
+I am a PhD student at the [Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu) (CSAIL) at MIT, working under the supervision of [Russ Tedrake](http://groups.csail.mit.edu/locomotion/russt.html) and [Pablo Parrilo](https://www.mit.edu/~parrilo/).
+Starting from November 2022 I will be visiting Stanford University to collaborate with [Stephen Boyd](https://web.stanford.edu/~boyd/).
