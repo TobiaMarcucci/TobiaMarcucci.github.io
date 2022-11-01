@@ -10,4 +10,4 @@ layout: page
 </p>
 
 I am a PhD student at the [Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu) (CSAIL) at MIT, working under the supervision of [Russ Tedrake](http://groups.csail.mit.edu/locomotion/russt.html) and [Pablo Parrilo](https://www.mit.edu/~parrilo/).
-Starting from November 2022 I will be visiting Stanford University to collaborate with [Stephen Boyd](https://web.stanford.edu/~boyd/).
+Starting November 2022 I am visiting Stanford University to collaborate with [Stephen Boyd](https://web.stanford.edu/~boyd/).
