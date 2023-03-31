@@ -14,4 +14,4 @@ Since 2017 I am at the [Computer Science and Artificial Intelligence Laboratory 
 I am currently at Stanford University for a visiting period of nine months.
 My main research interests are numerical optimization, robotics, and control theory.
 
-CV available at: <a href="https://tobiamarcucci.github.io/marcucci_cv.pdf" target="_blank">https://tobiamarcucci.github.io/cv.pdf</a>
+CV available at: <a href="https://tobiamarcucci.github.io/marcucci_cv.pdf" target="_blank">https://tobiamarcucci.github.io/marcucci_cv.pdf</a>
