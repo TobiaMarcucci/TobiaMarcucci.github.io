@@ -8,10 +8,6 @@ permalink: "/bio"
 <img src="me2.jpg"  width="200px"/>
 </p>
 
-I graduated cum laude in mechanical engineering from the University of Pisa in 2015.
-From 2015 to 2017 I was a PhD student in robotics at the [Research Center E. Piaggio](https://www.centropiaggio.unipi.it), University of Pisa, and the [Istituto Italiano di Tecnologia (IIT)](https://www.iit.it/en-US/).
-Since 2017 I am at the [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu), Massachusetts Institute of Technology (MIT), to continue my PhD studies; my major is in computer science and my minor in mathematics.
-I am currently at Stanford University for a visiting period of nine months.
-My main research interests are numerical optimization, robotics, and control theory.
+Tobia Marcucci is a fifth-year PhD student at the Massachusetts Institute of Technology (MIT), [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu), under the supervision of [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html) and [Pablo Parrilo](https://www.mit.edu/~parrilo/). Currently, he is also a graduate visiting researcher at Stanford University in [Stephen Boyd](https://web.stanford.edu/~boyd/)'s group. Before MIT, Tobia was at the University of Pisa, where he graduated cum laude in mechanical engineering and where he started a PhD in robotics at the [Research Center E. Piaggio](https://www.centropiaggio.unipi.it) and the [Istituto Italiano di Tecnologia (IIT)](https://www.iit.it/en-US/). His research lies at the intersection of convex and combinatorial optimization, with applications to robotics, motion planning, and optimal control.
 
 CV available at: <a href="https://tobiamarcucci.github.io/marcucci_cv.pdf" target="_blank">https://tobiamarcucci.github.io/marcucci_cv.pdf</a>
