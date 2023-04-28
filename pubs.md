@@ -6,19 +6,24 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Fast Path Planning Through Large Collections of Safe Boxes**  
+Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Preprint available on ArXiv. 2023.  
+[[code]](https://github.com/cvxgrp/fastpathplanning)
+
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and Russ Tedrake<sup>\*</sup>. Under review in Science Robotics, preprint available on ArXiv. 2022.  
-[[pdf]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci22.pdf)
+[[pdf]](https://arxiv.org/pdf/2205.04422.pdf)
 [[code]](https://github.com/mpetersen94/gcs)
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake. Under review in SIAM Journal on Optimization, preprint available on ArXiv. 2021.  
-[[pdf]](https://groups.csail.mit.edu/robotics-center/public_papers/Marcucci21.pdf)
+[[pdf]](https://arxiv.org/pdf/2101.11565.pdf)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
 Tobia Marcucci and Russ Tedrake. IEEE Transactions on Automatic Control (TAC). 2020.  
-[[pdf]](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci19.pdf)
+[[pdf]](https://arxiv.org/pdf/1910.08251.pdf)
+[[code]](https://github.com/TobiaMarcucci/warm-start-hybrid-mpc)
 
 **Mixed-Integer Formulations for Optimal Control of Piecewise-Affine Systems**  
 Tobia Marcucci and Russ Tedrake. ACM International Conference on Hybrid Systems: Computation and Control (HSCC). 2019.  
