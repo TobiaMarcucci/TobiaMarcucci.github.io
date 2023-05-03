@@ -8,6 +8,7 @@ permalink: "/publications"
 
 **Fast Path Planning Through Large Collections of Safe Boxes**  
 Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Preprint available on ArXiv. 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
 **Motion Planning around Obstacles with Convex Optimization**  
