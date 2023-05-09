@@ -7,7 +7,7 @@ permalink: "/publications"
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
 **Fast Path Planning Through Large Collections of Safe Boxes**  
-Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Preprint available on ArXiv. 2023.  
+Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Under review in IEEE Transactions on Robotics, preprint available on ArXiv. 2023.
 [[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
