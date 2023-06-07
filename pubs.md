@@ -6,8 +6,12 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Smooth Model Predictive Control with Applications to Statistical Learning**  
+Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie. Under review in IEEE Conference on Decision and Control, preprint available on ArXiv. 2023.
+[[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
+
 **Fast Path Planning Through Large Collections of Safe Boxes**  
-Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Under review in IEEE Transactions on Robotics, preprint available on ArXiv. 2023.
+Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Under review in IEEE Transactions on Robotics (TRO), preprint available on ArXiv. 2023.
 [[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
