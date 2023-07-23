@@ -7,7 +7,7 @@ permalink: "/publications"
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
 **Smooth Model Predictive Control with Applications to Statistical Learning**  
-Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie. Under review in IEEE Conference on Decision and Control, preprint available on ArXiv. 2023.  
+Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie. Preprint available on ArXiv. 2023.  
 [[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
 
 **Fast Path Planning Through Large Collections of Safe Boxes**  
@@ -16,7 +16,7 @@ Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Under review in IEE
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
 **Motion Planning around Obstacles with Convex Optimization**  
-Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and Russ Tedrake<sup>\*</sup>. Under review in Science Robotics, preprint available on ArXiv. 2022.  
+Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and Russ Tedrake<sup>\*</sup>. Accepted for publication in Science Robotics, preprint available on ArXiv. 2022.  
 [[pdf]](https://arxiv.org/pdf/2205.04422.pdf)
 [[code]](https://github.com/mpetersen94/gcs)
 
