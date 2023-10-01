@@ -6,6 +6,13 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
+of Visibility Graphs**  
+Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake. Under review in IEEE International Conference on Robotics and Automation (ICRA). 2024.  
+
+**Model-Based Control with Sparse Neural Dynamics**  
+Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li. Accepted for publication in Conference on Neural Information Processing Systems (NeurIPS). 2023.  
+
 **Smooth Model Predictive Control with Applications to Statistical Learning**  
 Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie. Preprint available on ArXiv. 2023.  
 [[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
@@ -16,7 +23,7 @@ Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd. Under review in IEE
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
 **Motion Planning around Obstacles with Convex Optimization**  
-Tobia Marcucci<sup>\*</sup>, Mark Petersen<sup>\*</sup>, David von Wrangel, and Russ Tedrake<sup>\*</sup>. Accepted for publication in Science Robotics, preprint available on ArXiv. 2022.  
+Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake. Accepted for publication in Science Robotics, preprint available on ArXiv. 2022.  
 [[pdf]](https://arxiv.org/pdf/2205.04422.pdf)
 [[code]](https://github.com/mpetersen94/gcs)
 
