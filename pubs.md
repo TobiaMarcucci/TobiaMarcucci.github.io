@@ -8,7 +8,8 @@ permalink: "/publications"
 
 **Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
 of Visibility Graphs**  
-Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake. Under review in IEEE International Conference on Robotics and Automation (ICRA). 2024.  
+Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake. Under review in IEEE International Conference on Robotics and Automation (ICRA), preprint available on ArXiv. 2024. 
+ [[pdf]](https://arxiv.org/abs/2310.02875)
 
 **Model-Based Control with Sparse Neural Dynamics**  
 Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li. Accepted for publication in Conference on Neural Information Processing Systems (NeurIPS). 2023.  
