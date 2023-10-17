@@ -35,7 +35,7 @@ Accepted for publication in Science Robotics, preprint available on ArXiv. 2022.
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
-Under review in SIAM Journal on Optimization, preprint available on ArXiv. 2021.  
+Accepted for publication in SIAM Journal on Optimization, preprint available on ArXiv. 2021.  
 [[pdf]](https://arxiv.org/pdf/2101.11565.pdf)
 [[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
