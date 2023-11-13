@@ -15,6 +15,7 @@ Under review in IEEE International Conference on Robotics and Automation (ICRA),
 **Model-Based Control with Sparse Neural Dynamics**  
 Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li.  
 Accepted for publication in Conference on Neural Information Processing Systems (NeurIPS). 2023.  
+[[pdf]](https://openreview.net/pdf?id=ymBG2xs9Zf)
 
 **Smooth Model Predictive Control with Applications to Statistical Learning**  
 Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie.  
