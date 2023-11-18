@@ -33,7 +33,7 @@ Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.
 Science Robotics. 2022.  
 (**Cover of the November 2023 issue.**)  
 [[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
-[[code]](hhttps://github.com/RobotLocomotion/gcs-science-robotics)
+[[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
