@@ -14,7 +14,7 @@ Under review in IEEE International Conference on Robotics and Automation (ICRA),
 
 **Model-Based Control with Sparse Neural Dynamics**  
 Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li.  
-Accepted for publication in Conference on Neural Information Processing Systems (NeurIPS). 2023.  
+Conference on Neural Information Processing Systems (NeurIPS). 2023.  
 [[pdf]](https://openreview.net/pdf?id=ymBG2xs9Zf)
 
 **Smooth Model Predictive Control with Applications to Statistical Learning**  
@@ -30,9 +30,10 @@ Under review in IEEE Transactions on Robotics (TRO), preprint available on ArXiv
 
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
-Accepted for publication in Science Robotics, preprint available on ArXiv. 2022.  
-[[pdf]](https://arxiv.org/pdf/2205.04422.pdf)
-[[code]](https://github.com/mpetersen94/gcs)
+Science Robotics. 2022.  
+(**Cover of the November 2023 issue.**)  
+[[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
+[[code]](hhttps://github.com/RobotLocomotion/gcs-science-robotics)
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
