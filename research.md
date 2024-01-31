@@ -5,7 +5,7 @@ permalink: "/research"
 ---
 
 My research sits at the intersection of convex and combinatorial optimization, with applications to robotics, motion planning, and optimal control.
-Specifically, I study optimal decision making in circumstances where discrete and continuous choices have to be made simultaneously.
+Specifically, I study optimal decision making in circumstances where discrete and continuous choices have to be made simultaneously. 
 I work on these problems on a mathematical and numerical level: I develop modeling frameworks, transcriptions as numerical optimizations, and solution algorithms.
 
 The questions at the core of my research are also central in machine learning and AI: foundation and large-language models have recently unlocked unprecedented opportunities for providing our robots with common sense and long-term reasoning, but have also highlighted the lack of optimization methods that can reliably and automatically generate large amounts of high-quality training data.
