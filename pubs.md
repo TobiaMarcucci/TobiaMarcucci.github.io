@@ -12,6 +12,12 @@ Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake.
 Accpeted for publication in IEEE International Conference on Robotics and Automation (ICRA), preprint available on ArXiv. 2024.  
 [[pdf]](https://arxiv.org/abs/2310.02875)
 
+**Shortest Paths in Graphs of Convex Sets**  
+Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
+SIAM Journal on Optimization. 2024.  
+[[pdf]](https://arxiv.org/pdf/2101.11565.pdf)
+[[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
+
 **Model-Based Control with Sparse Neural Dynamics**  
 Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li.  
 Conference on Neural Information Processing Systems (NeurIPS). 2023.  
@@ -34,12 +40,6 @@ Science Robotics. 2023.
 (**Cover of the November 2023 issue**)  
 [[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
 [[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
-
-**Shortest Paths in Graphs of Convex Sets**  
-Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
-Accepted for publication in SIAM Journal on Optimization, preprint available on ArXiv. 2021.  
-[[pdf]](https://arxiv.org/pdf/2101.11565.pdf)
-[[code]](https://github.com/TobiaMarcucci/shortest-paths-in-graphs-of-convex-sets)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
 Tobia Marcucci and Russ Tedrake.  
