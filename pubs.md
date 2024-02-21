@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
+Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
+Preprint available on ArXiv. 2024.  
+[[pdf]](https://arxiv.org/abs/2402.10312)
+
 **Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
 of Visibility Graphs**  
 Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake.  
