@@ -16,6 +16,8 @@ of Visibility Graphs**
 Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake.  
 Accpeted for publication in IEEE International Conference on Robotics and Automation (ICRA), preprint available on ArXiv. 2024.  
 [[pdf]](https://arxiv.org/abs/2310.02875)
+[[website]](https://sites.google.com/view/cspacevcc/home)
+
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
