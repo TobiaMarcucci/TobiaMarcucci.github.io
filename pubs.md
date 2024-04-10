@@ -46,6 +46,7 @@ Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.
 Science Robotics. 2023.  
 (**Cover of the November 2023 issue**)  
 [[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
+[[free-access pdf]](https://groups.csail.mit.edu/locomotion/pubs.shtml)
 [[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
