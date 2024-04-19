@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
+Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
+Under review in IEEE Conference on Decision and Control (CDC). 2024.  
+[[pdf]](https://arxiv.org/abs/2402.10312)
+
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
 Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
 Preprint available on ArXiv. 2024.  
@@ -14,10 +19,9 @@ Preprint available on ArXiv. 2024.
 **Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
 of Visibility Graphs**  
 Peter Werner, Alexandre Amice, Tobia Marcucci, Daniela Rus, and Russ Tedrake.  
-Accpeted for publication in IEEE International Conference on Robotics and Automation (ICRA), preprint available on ArXiv. 2024.  
+IEEE International Conference on Robotics and Automation (ICRA), preprint available on ArXiv. 2024.  
 [[pdf]](https://arxiv.org/abs/2310.02875)
 [[website]](https://sites.google.com/view/cspacevcc/home)
-
 
 **Shortest Paths in Graphs of Convex Sets**  
 Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, and Russ Tedrake.  
