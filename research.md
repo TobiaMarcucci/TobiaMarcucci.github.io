@@ -10,12 +10,12 @@ I work on these problems on a mathematical and numerical level: I develop modeli
 
 The questions at the core of my research are also central in machine learning and AI: foundation and large-language models have recently unlocked unprecedented opportunities for providing our robots with common sense and long-term reasoning, but have also highlighted the lack of optimization methods that can reliably and automatically generate large amounts of high-quality training data.
 
-The main outcome of my PhD has been [Graphs of Convex Sets (GCS)](https://arxiv.org/pdf/2101.11565): a modelling and decision-making framework that efficiently combines graph search and convex optimization.
-Formally, a GCS is a directed graph where the position of each vertex is a continuous variable constrained in a convex set, and the length of an edge is a convex function of the position of its endpoints.
-Almost any problem in graph theory can be extended to GCS in a natural way, yielding a new class of problems with a wide range of applications.
+The main outcome of my PhD has been [Graphs of Convex Sets (GCS)](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci24a.pdf): a modelling and decision-making framework that efficiently combines graph search and convex optimization.
+Formally, a GCS is a graph where each vertex is paired with a convex program, and each edge couples two programs through additional convex costs and constraints.
+Any optimization problem over an ordinary weighted graph can be extended to GCS in a natural way, yielding a new class of problems with a wide range of applications.
 My main contribution has been a general methodology to reformulate any GCS problem as a compact mixed-integer program with very tight convex relaxation.
 
-The shortest-path problem in GCS is especially important in robotics, since it encompasses as special cases many trajectory-optimization and motion-planning problems.
+The s[hortest-path problem in GCS](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci21.pdf) is especially important in control and robotics, since it encompasses as special cases many trajectory-optimization and motion-planning problems.
 Through a single convex program, we can now design [globally optimal trajectories for a car traversing a maze in minimum time, or solve intricate bi-manual manipulation problems](https://www.science.org/doi/10.1126/scirobotics.adf7843).
 
 [Our laboratory](http://groups.csail.mit.edu/locomotion/) is mainly focused on robotics.
