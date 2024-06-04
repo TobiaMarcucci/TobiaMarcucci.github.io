@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
-PhD Thesis at Massachusetts Institute of Technology. 2024.  
+PhD Thesis at the Massachusetts Institute of Technology. 2024.  
 [[pdf]](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci24a.pdf)
 
 **On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
