@@ -53,7 +53,8 @@ Under review in IEEE Transactions on Robotics (TRO), preprint available on ArXiv
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
 Science Robotics. 2023.  
-(**Cover of the November 2023 issue**)  
+- [[**Cover of the November 2023 issue**]](https://www.science.org/toc/scirobotics/8/84)  
+- [[IEEE RAS TC Model Based Optimization for Robotics Best Paper Award]](https://www.tcoptrob.org/news/2024-06-12-best-paper/)  
 [[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
 [[free-access pdf]](https://groups.csail.mit.edu/locomotion/pubs.shtml)
 [[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
