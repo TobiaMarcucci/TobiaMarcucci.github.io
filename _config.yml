@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tobia Marcucci
-email: tobiam AT mit DOT edu
+email: tobmar AT amazon DOT com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Tobia Marcucci, PhD student at MIT.
+  Personal website of Tobia Marcucci.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
