@@ -6,6 +6,10 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
+Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal,  Rohan Bosworth,  Pablo A. Parrilo, and Russ Tedrake.  
+Under review in International Workshop on the Algorithmic Foundations of Robotics (WAFR). 2024.  
+
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
@@ -14,7 +18,6 @@ PhD Thesis at the Massachusetts Institute of Technology. 2024.
 **On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
 Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
 Under review in IEEE Conference on Decision and Control (CDC). 2024.  
-[[pdf]](https://arxiv.org/abs/2402.10312)
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
 Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
