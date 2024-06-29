@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**A Tight Semidefinite Relaxation for Linear and Hybrid Optimal Control with Time Scaling**  
+Lujie Yang, Tobia Marcucci, and Russ Tedrake.  
+Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
+[[pdf]](https://openreview.net/pdf?id=PtXJoM0szN)
+
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
