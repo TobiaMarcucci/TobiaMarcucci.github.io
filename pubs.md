@@ -9,7 +9,7 @@ permalink: "/publications"
 **A Tight Semidefinite Relaxation for Linear and Hybrid Optimal Control with Time Scaling**  
 Lujie Yang, Tobia Marcucci, and Russ Tedrake.  
 Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
-[[pdf]](https://openreview.net/pdf?id=PtXJoM0szN)
+<!-- [[pdf]](https://openreview.net/pdf?id=PtXJoM0szN) -->
 
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
 Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal,  Rohan Bosworth,  Pablo A. Parrilo, and Russ Tedrake.  
