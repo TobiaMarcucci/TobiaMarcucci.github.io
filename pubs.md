@@ -11,6 +11,10 @@ Lujie Yang, Tobia Marcucci, and Russ Tedrake.
 Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
 [[pdf]](https://openreview.net/pdf?id=PtXJoM0szN)
 
+**Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
+Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal,  Rohan Bosworth,  Pablo A. Parrilo, and Russ Tedrake.  
+Under review in International Workshop on the Algorithmic Foundations of Robotics (WAFR). 2024.  
+
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
@@ -19,7 +23,6 @@ PhD Thesis at the Massachusetts Institute of Technology. 2024.
 **On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
 Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
 Under review in IEEE Conference on Decision and Control (CDC). 2024.  
-[[pdf]](https://arxiv.org/abs/2402.10312)
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
 Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
@@ -58,7 +61,8 @@ Under review in IEEE Transactions on Robotics (TRO), preprint available on ArXiv
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
 Science Robotics. 2023.  
-(**Cover of the November 2023 issue**)  
+[**Cover of the November 2023 issue**](https://www.science.org/toc/scirobotics/8/84)  
+[**IEEE RAS TC Model Based Optimization for Robotics Best Paper Award**](https://www.tcoptrob.org/news/2024-06-12-best-paper/)  
 [[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
 [[free-access pdf]](https://groups.csail.mit.edu/locomotion/pubs.shtml)
 [[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
