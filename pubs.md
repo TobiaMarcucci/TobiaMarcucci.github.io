@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **A Tight Semidefinite Relaxation for Linear and Hybrid Optimal Control with Time Scaling**  
 Lujie Yang, Tobia Marcucci, and Russ Tedrake.  
-Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
+Accepted for publication in Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
 <!-- [[pdf]](https://openreview.net/pdf?id=PtXJoM0szN) -->
 
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
@@ -26,7 +26,7 @@ Under review in IEEE Conference on Decision and Control (CDC). 2024.
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
 Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
-Preprint available on ArXiv. 2024.  
+Accepted for publication in Robotics: Science and Systems (RSS). 2024.  
 [[pdf]](https://arxiv.org/abs/2402.10312)
 
 **Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
@@ -54,7 +54,7 @@ Preprint available on ArXiv. 2023.
 
 **Fast Path Planning Through Large Collections of Safe Boxes**  
 Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd.  
-Under review in IEEE Transactions on Robotics (TRO), preprint available on ArXiv. 2023.  
+Accepted for publication in IEEE Transactions on Robotics (TRO). 2024.  
 [[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
 [[code]](https://github.com/cvxgrp/fastpathplanning)
 
@@ -63,8 +63,7 @@ Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.
 Science Robotics. 2023.  
 [**Cover of the November 2023 issue**](https://www.science.org/toc/scirobotics/8/84)  
 [**IEEE RAS TC Model Based Optimization for Robotics Best Paper Award**](https://www.tcoptrob.org/news/2024-06-12-best-paper/)  
-[[pdf]](https://www.science.org/doi/epdf/10.1126/scirobotics.adf7843)
-[[free-access pdf]](https://groups.csail.mit.edu/locomotion/pubs.shtml)
+[[pdf]](https://www.science.org/stoken/author-tokens/ST-1559/full)
 [[code]](https://github.com/RobotLocomotion/gcs-science-robotics)
 
 **Warm Start of Mixed-Integer Programs for Model Predictive Control of Hybrid Systems**  
