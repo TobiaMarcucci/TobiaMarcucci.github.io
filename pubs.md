@@ -6,6 +6,16 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
+Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
+Accepted for publication in IEEE Conference on Decision and Control (CDC). 2024.  
+
+**Fast Path Planning Through Large Collections of Safe Boxes**  
+Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd.  
+Accepted for publication in IEEE Transactions on Robotics (TRO). 2024.  
+[[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
+[[code]](https://github.com/cvxgrp/fastpathplanning)
+
 **A Tight Semidefinite Relaxation for Linear and Hybrid Optimal Control with Time Scaling**  
 Lujie Yang, Tobia Marcucci, and Russ Tedrake.  
 Accepted for publication in Robotics: Science and Systems (RSS), workshop on Frontiers of Optimization for Robotics (FOR). 2024.  
@@ -20,13 +30,9 @@ Tobia Marcucci.
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
 [[pdf]](http://groups.csail.mit.edu/robotics-center/public_papers/Marcucci24a.pdf)
 
-**On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
-Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
-Under review in IEEE Conference on Decision and Control (CDC). 2024.  
-
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
 Bernhard P. Graesdal, Shao Y.C. Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
-Accepted for publication in Robotics: Science and Systems (RSS). 2024.  
+Robotics: Science and Systems (RSS). 2024.  
 [[pdf]](https://arxiv.org/abs/2402.10312)
 
 **Approximating Robot Configuration Spaces with few Convex Sets using Clique Covers
@@ -51,12 +57,6 @@ Conference on Neural Information Processing Systems (NeurIPS). 2023.
 Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie.  
 Preprint available on ArXiv. 2023.  
 [[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
-
-**Fast Path Planning Through Large Collections of Safe Boxes**  
-Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd.  
-Accepted for publication in IEEE Transactions on Robotics (TRO). 2024.  
-[[pdf]](https://arxiv.org/pdf/2305.01072.pdf)
-[[code]](https://github.com/cvxgrp/fastpathplanning)
 
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
