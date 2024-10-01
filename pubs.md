@@ -13,6 +13,7 @@ Under review in IEEE International Conference on Robotics and Automation (ICRA).
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
 Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal,  Rohan Bosworth,  Pablo A. Parrilo, and Russ Tedrake.  
 International Workshop on the Algorithmic Foundations of Robotics (WAFR). 2024.  
+[[pdf]](https://arxiv.org/abs/2409.19543)
 
 **On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
 Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
