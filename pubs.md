@@ -11,13 +11,14 @@ Lujie Yang, Tobia Marcucci, Pablo A. Parrilo, and Russ Tedrake.
 Under review in IEEE International Conference on Robotics and Automation (ICRA). 2025.
 
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
-Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal,  Rohan Bosworth,  Pablo A. Parrilo, and Russ Tedrake.  
+Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard Paus Graesdal, Rohan Bosworth, Pablo A. Parrilo, and Russ Tedrake.  
 International Workshop on the Algorithmic Foundations of Robotics (WAFR). 2024.  
 [[pdf]](https://arxiv.org/abs/2409.19543)
 
 **On the Sample Complexity of Imitation Learning for Smoothed Model Predictive Control**  
 Daniel Pfrommer, Swati Padmanabhan, Kwangjun Ahn, Jack Umenberger, Tobia Marcucci, Zakaria Mhammedi, and Ali Jadbabaie.  
 IEEE Conference on Decision and Control (CDC). 2024.  
+[[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
 
 **Fast Path Planning Through Large Collections of Safe Boxes**  
 Tobia Marcucci, Parth Nobel, Russ Tedrake, and Stephen Boyd.  
@@ -53,10 +54,10 @@ Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yu
 Conference on Neural Information Processing Systems (NeurIPS). 2023.  
 [[pdf]](https://openreview.net/pdf?id=ymBG2xs9Zf)
 
-**Smooth Model Predictive Control with Applications to Statistical Learning**  
+<!-- **Smooth Model Predictive Control with Applications to Statistical Learning**  
 Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie.  
 Preprint available on ArXiv. 2023.  
-[[pdf]](https://arxiv.org/pdf/2306.01914.pdf)
+[[pdf]](https://arxiv.org/pdf/2306.01914.pdf) -->
 
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
