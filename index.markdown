@@ -17,4 +17,4 @@ My research is centered on Graphs of Convex Sets (GCS), a new framework for deci
 
 # Recruiting two PhD students
 
-Next spring I will be joining the [Department of Electrical and Computer Engineering at the University of California, Santa Barbara](https://www.ece.ucsb.edu), and I am  looking for two highly motivated PhD students. If you are interested in developing cutting-edge optimization algorithms and/or applying them in robotics please do not hesitate to send me an email. The deadline for the application is December 15, 2024. Additional info on the application process can be found [here](https://www.ece.ucsb.edu/grad/apply).
+Next spring I will be joining the [Department of Electrical and Computer Engineering at the University of California, Santa Barbara](https://www.ece.ucsb.edu), and I am  looking for two highly motivated PhD students. If you are interested in developing cutting-edge optimization algorithms and applying them in robotics please do not hesitate to send me an email. The deadline for the application is December 15, 2024. Additional info on the application process can be found [here](https://www.ece.ucsb.edu/grad/apply).
