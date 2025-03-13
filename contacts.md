@@ -5,5 +5,6 @@ permalink: "/contacts"
 ---
 
 - Email: marcucci@ucsb.edu
-<!-- - Office: [Amazon SFO28, floor 22](https://maps.app.goo.gl/jBD9cWwsqXBgPxjj9) -->
+- Phone: +1 805-893-5664
+- Office: Harold Frank Hall Rm 5155
 - [LinkedIn](https://www.linkedin.com/in/tobia-marcucci-4000972a4/)
