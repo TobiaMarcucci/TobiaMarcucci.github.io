@@ -9,14 +9,16 @@ permalink: "/publications"
 **A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets**
 Tobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, and Andrew Marchese.
 Under review in Robotics: Science and Systems (RSS). 2025.
+[[pdf]](https://arxiv.org/pdf/2504.18978)
 
-**Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**
+<!-- **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**
 Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo Parrilo, and Russ Tedrake.
-Under review in Robotics: Science and Systems (RSS). 2025.
+Under review in Robotics: Science and Systems (RSS). 2025. -->
 
 **A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**  
 Lujie Yang, Tobia Marcucci, Pablo A. Parrilo, and Russ Tedrake.  
 Accepted at IEEE International Conference on Robotics and Automation (ICRA). 2025.
+[[pdf]](https://arxiv.org/pdf/2504.13170)
 
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
 Savva Morozov, Tobia Marcucci, Alexandre Amice, Bernhard P. Graesdal, Rohan Bosworth, Pablo A. Parrilo, and Russ Tedrake.  
