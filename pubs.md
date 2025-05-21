@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets**
 Tobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, and Andrew Marchese.
-Under review in Robotics: Science and Systems (RSS). 2025.
+Under review in Robotics: Science and Systems (RSS). 2025.  
 [[pdf]](https://arxiv.org/pdf/2504.18978)
 
 <!-- **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**
