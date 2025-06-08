@@ -13,7 +13,7 @@ He is also affiliated with the UCSB Center for Control, Dynamical Systems, and C
 Before UCSB, he was a Postdoctoral Scientist at Amazon Robotics.
 He received a PhD in Computer Science from the Massachusetts Institute of Technology (MIT), under the supervision of [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html) and [Pablo Parrilo](https://www.mit.edu/~parrilo/).
 During his PhD, he also spent one year at Stanford University visiting [Stephen Boyd](https://web.stanford.edu/~boyd/)'s group.
-His PhD thesis was awarded the MIT EECS George M. Sprowls Artificial Intelligence and Decision-Making Thesis Award.
+His PhD thesis was awarded the MIT EECS George M. Sprowls Thesis Award in Artificial Intelligence and Decision Making.
 He received a Bachelor's degree and a Master's degree (cum laude) in Mechanical Engineering from the University of Pisa.
 His research lies at the intersection of convex and combinatorial optimization, with applications to robotics, motion planning, and optimal control.
 
