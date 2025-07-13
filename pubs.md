@@ -39,6 +39,7 @@ IEEE Transactions on Robotics (TRO). 2024.
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
+**MIT EECS George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision Making**  
 [[pdf]](https://dspace.mit.edu/handle/1721.1/156598)
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
