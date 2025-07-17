@@ -12,7 +12,7 @@ Robotics: Science and Systems (RSS). 2025.
 [[pdf]](https://arxiv.org/pdf/2504.18978)
 
 **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**
-Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo Parrilo, and Russ Tedrake.
+Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.
 arXiv. 2025.  
 [[pdf]](https://arxiv.org/abs/2507.10878)
 
