@@ -13,7 +13,7 @@ Robotics: Science and Systems (RSS). 2025.
 
 **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**
 Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo Parrilo, and Russ Tedrake.
-arXiv. 2025.
+arXiv. 2025.  
 [[pdf]](https://arxiv.org/abs/2507.10878)
 
 **A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**  
