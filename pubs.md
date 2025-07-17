@@ -18,7 +18,7 @@ arXiv. 2025.
 
 **A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**  
 Lujie Yang, Tobia Marcucci, Pablo A. Parrilo, and Russ Tedrake.  
-IEEE International Conference on Robotics and Automation (ICRA). 2025.
+IEEE International Conference on Robotics and Automation (ICRA). 2025.  
 [[pdf]](https://arxiv.org/pdf/2504.13170)
 
 **Multi-Query Shortest-Path Problem in Graphs of Convex Sets**  
