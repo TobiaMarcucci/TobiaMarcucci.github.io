@@ -8,7 +8,7 @@ permalink: /179P_spring_25/
 
 Motion planning and kinematics topics with an emphasis on algorithmic and geometric reasoning.
 - **Motion planning:** sensor-based planning, configuration spaces, decomposition and sampling methods, and graph-based algorithms.
-- **Kinematics:** reference frames, rotations and displacements, and inematic motion models.
+- **Kinematics:** reference frames, rotations and displacements, and kinematic motion models.
 
 <h3 style="color: maroon;">Learning outcomes</h3>
 
