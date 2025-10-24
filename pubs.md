@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**A Unified and Scalable Method for Optimization over Graphs of Convex Sets**
+Tobia Marcucci.  
+Under review in Mathematical Programming. 2025.  
+[[pdf]](https://arxiv.org/pdf/2510.20184)
+
 **A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets**
 Tobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, and Andrew Marchese.  
 Robotics: Science and Systems (RSS). 2025.  
