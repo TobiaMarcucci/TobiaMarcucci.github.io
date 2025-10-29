@@ -45,7 +45,7 @@ IEEE Transactions on Robotics (TRO). 2024.
 **Graphs of Convex Sets with Applications to Optimal Control and Motion Planning**  
 Tobia Marcucci.  
 PhD Thesis at the Massachusetts Institute of Technology. 2024.  
-**MIT EECS George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision Making**  
+[**MIT EECS George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision Making**](https://www.eecs.mit.edu/eecs-2025-awards/)  
 [[pdf]](https://dspace.mit.edu/handle/1721.1/156598)
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
@@ -70,11 +70,6 @@ SIAM Journal on Optimization. 2024.
 Ziang Liu, Jeff He, Genggeng Zhou, Tobia Marcucci, Li Fei-Fei, Jiajun Wu, and Yunzhu Li.  
 Conference on Neural Information Processing Systems (NeurIPS). 2023.  
 [[pdf]](https://openreview.net/pdf?id=ymBG2xs9Zf)
-
-<!-- **Smooth Model Predictive Control with Applications to Statistical Learning**  
-Kwangjun Ahn, Daniel Pfrommer, Jack Umenberger, Tobia Marcucci, Zak Mhammedi, and Ali Jadbabaie.  
-Preprint available on ArXiv. 2023.  
-[[pdf]](https://arxiv.org/pdf/2306.01914.pdf) -->
 
 **Motion Planning around Obstacles with Convex Optimization**  
 Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.  
