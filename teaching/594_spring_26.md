@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "ECE 594: Optimization and Learning for Robotics and Control"
-permalink: /594_spring_26/
+title: "ECE 594T: Optimization and Learning for Robotics and Control"
+permalink: /594T_spring_26/
 ---
 
 <h3 style="color: maroon;">Description</h3>
