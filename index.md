@@ -19,6 +19,7 @@ I am seeking highly motivated PhD students to join my newly established research
 
 <h3 style="color: maroon;">News</h3>
 
+- I'll be giving a talk at the [CVXPY Workshop](https://www.cvxpy.org/workshop/2026/).
 - Autonomy Talk titled "[A Tutorial on Graphs of Convex Sets](https://www.youtube.com/watch?v=N-qSSUX83Rk)".
 - [New paper](https://arxiv.org/pdf/2510.20184) that builds on my PhD thesis. I encourage you to check it out if you’re interested in GCS. Any feedback is greatly appreciated!
 - Major cleanup to the Python library [GCSOPT](https://github.com/TobiaMarcucci/gcsopt) for solving GCS problems. It’s now pip-installable, thoroughly tested, and (hopefully) straightforward to use.
