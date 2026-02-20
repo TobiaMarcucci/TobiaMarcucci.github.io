@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**  
 Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
-Under review in WWorld Symposium on the Algorithmic Foundations of Robotics (WAFR). 2026.  
+Under review in World Symposium on the Algorithmic Foundations of Robotics (WAFR). 2026.  
 [[pdf]](https://arxiv.org/abs/2507.10878)
 
 **A Unified and Scalable Method for Optimization over Graphs of Convex Sets**  
