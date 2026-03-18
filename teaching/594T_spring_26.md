@@ -114,32 +114,34 @@ We adhere to the [UCSB Academic Integrity Policy](https://studentconduct.sa.ucsb
 
 <h3 style="color: maroon;">Lectures</h3>
 
-<!-- The lectures will roughly follow the textbook.
-After each lecture, I will list below the sections of the textbook that were covered in the lecture.
-Please note that the lectures will not follow the textbook exactly: we may cover additional material or skip some material in each of the sections listed below.
+The lectures will follow the lecture notes.
+After each lecture, I will list below the sections that were covered in the lecture.
+Please note that we might skip some of the material in the lecture notes.
 
-- *Lecture 1* (September 25): High-level introduction to the course, Sections 1.1 and 1.2
-- *Lecture 2* (September 30): Sections 1.3 and 1.5
-- *Lecture 3* (October 2): Sections 1.4 and 2.1
-- *Lecture 4* (October 7): Sections 2.3.1 and 5.5
-- *Lecture 5* (October 9): Section 2.2
-- *Lecture 6* (October 14): Sections 5.2 and 3.1
-- *Lecture 7* (October 16): Sections 3.2 and 3.3
-- *Lecture 8* (October 21): Section 3.4
-- *Lecture 9* (October 23): Section 4.1
-- *Lecture 10* (October 28): Sections 4.2, 4.3 (at a high level), and 4.4
-- *Lecture 11* (November 4): Sections 5.3 and 5.4
-- *Lecture 12* (November 13): Sections 6.1 and 6.2
-- *Lecture 13* (November 18): Sections 6.3, 7.1, and 7.2
-- *Lecture 14* (November 20): Sections 7.3.1 and 7.3.2
-- *Lecture 15* (November 25): Section 7.3.3 and 7.4
-- *Lecture 16* (December 2): Sections 8.1 and 8.2
-- *Lecture 17* (December 4): Section 8.3 -->
+- *Lecture 1*: March 30
+- *Lecture 2*: April 1
+- *Lecture 3*: April 6
+- *Lecture 4*: April 8
+- *Lecture 5*: April 13
+- *Lecture 6*: April 15
+- *Lecture 7*: April 20
+- *Lecture 8*: April 22 (project proposal due)
+- *Lecture 9*: April 27
+- *Lecture 10*: April 29
+- *Lecture 11*: May 4
+- *Lecture 12*: May 6
+- *Lecture 13*: May 11
+- *Lecture 14*: May 13
+- *Lecture 15*: May 18
+- *Lecture 16*: May 20
+- *Lecture 17*: May 27
+- *Lecture 18*: June 1
+- *Lecture 19*: June 3 (project report and video due)
 
 <h3 style="color: maroon;">Homework</h3>
 
-<!-- - *Homework 1*: released on September 30 and due on October 7
-- *Homework 2*: released on October 7 and due on October 16
+- *Homework 1*: released on April 1 and due on April 8
+<!-- - *Homework 2*: released on October 7 and due on October 16
 - *Homework 3*: released on October 16 and due on October 28
 - *Homework 4*: released on November 4 and due on November 13
 - *Homework 5*: released on November 18 and due on November 25
