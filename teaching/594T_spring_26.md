@@ -80,7 +80,20 @@ Please use the LaTeX template if you can.
 
 <h3 style="color: maroon;">Project proposal</h3>
 
-Halfway through the quarter you will be asked to submit a project proposal.
+Halfway through the quarter, on April 29, you will have to submit a project proposal.
+This is intended to help you start thinking seriously about your final project early in the quarter and to receive feedback before committing significant effort.
+A well-prepared proposal will make the remainder of the project substantially smoother.
+
+Your proposal should be about one page (not more than two) and clearly describe the following elements:
+- *Project topic and motivation*: What problem do you want to study, and why is it interesting or relevant? Your project should be well aligned with the material covered in the course. Try to be specific about which concepts, methods, or techniques from the class you plan to use.
+- *Technical approach*: Provide a concrete plan for how you intend to carry out the project. This may include developing a new method, extending an existing one, or implementing and evaluating known techniques on a particular problem. At this stage, clarity and feasibility are more important than ambition.
+- *Expected outcomes*: What do you hope to demonstrate by the end of the project? For example, do you aim to improve an algorithm, or provide empirical validation through simulations or experiments? The quarter is short, so it is important to choose a project that is appropriately scoped. Indicate what you consider to be the "minimal viable project" and any possible extensions if time permits.
+- *Preliminary references*: List a few relevant papers, books, or other resources that will inform your work. This will help ensure that your project is grounded in existing literature.
+- *Team information (if applicable)*: If you are working in a team (at most 3 people), list all members and briefly describe how you expect to divide the work. Keep in mind that expectations will scale with the number of team members.
+- *Overlap with other work (if applicable)*: If your project is related to your current research or another class, clearly state this and explain what portion of the work is new for this course.
+
+The goal of the proposal is not to lock you into a rigid plan, but to ensure that you have identified a clear, feasible direction early on.
+You are strongly encouraged to discuss your ideas in office hours before submitting the proposal.
 
 <h3 style="color: maroon;">Grading</h3>
 
@@ -125,9 +138,9 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 5*: April 13
 - *Lecture 6*: April 15
 - *Lecture 7*: April 20
-- *Lecture 8*: April 22 (project proposal due)
+- *Lecture 8*: April 22
 - *Lecture 9*: April 27
-- *Lecture 10*: April 29
+- *Lecture 10*: April 29 (project proposal due)
 - *Lecture 11*: May 4
 - *Lecture 12*: May 6
 - *Lecture 13*: May 11
@@ -138,11 +151,12 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 18*: June 1
 - *Lecture 19*: June 3 (project report and video due)
 
-<h3 style="color: maroon;">Homework</h3>
+<h3 style="color: maroon;">Tentative homework schedule</h3>
 
 - *Homework 1*: released on April 1 and due on April 8
-<!-- - *Homework 2*: released on October 7 and due on October 16
-- *Homework 3*: released on October 16 and due on October 28
-- *Homework 4*: released on November 4 and due on November 13
-- *Homework 5*: released on November 18 and due on November 25
-- *Homework 6*: released on November 25 and due on December 4 -->
+- *Homework 2*: released on April 8 and due on April 15
+- *Homework 3*: released on April 15 and due on April 22
+- *Homework 4*: released on April 29 and due on May 6
+- *Homework 5*: released on May 6 and due on May 13
+- *Homework 6*: released on May 13 and due on May 20
+- *Homework 7*: released on May 20 and due on May 27
