@@ -74,7 +74,7 @@ The final project will be evaluated through:
 About the final report:
 - It should be written using the [IEEE template for conference proceedings](https://www.ieee.org/conferences/publishing/templates).
 Please use the LaTeX template if you can.
-- Write a summary of what you accomplished during your project. Write it, as much as possible, like a conference paper. You should include: abstract, introduction, literature review, technical approach, results, discussion about strengths and limitaations, and potential next steps.
+- Write a summary of what you accomplished during your project. Write it, as much as possible, like a conference paper. You should include: abstract, introduction, literature review, technical approach, results, discussion about strengths and limitations, and potential next steps.
 - For team projects, please add a section that describes the contributions of each team member.
 - For projects that overlap with your research or a project in another class, please clearly denote what parts of the project overlap (or not) with the other efforts.
 
