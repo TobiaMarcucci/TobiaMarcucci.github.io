@@ -80,7 +80,7 @@ Please use the LaTeX template if you can.
 
 <h3 style="color: maroon;">Project proposal</h3>
 
-Halfway through the quarter, on April 29, you will have to submit a project proposal.
+Halfway through the quarter, on April 22, you will have to submit a project proposal.
 This is intended to help you start thinking seriously about your final project early in the quarter and to receive feedback before committing significant effort.
 A well-prepared proposal will make the remainder of the project substantially smoother.
 
@@ -138,9 +138,9 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 5*: April 13
 - *Lecture 6*: April 15
 - *Lecture 7*: April 20
-- *Lecture 8*: April 22
+- *Lecture 8*: April 22 (project proposal due)
 - *Lecture 9*: April 27
-- *Lecture 10*: April 29 (project proposal due)
+- *Lecture 10*: April 29
 - *Lecture 11*: May 4
 - *Lecture 12*: May 6
 - *Lecture 13*: May 11
@@ -155,7 +155,7 @@ Please note that we might skip some of the material in the lecture notes.
 
 - *Homework 1*: released on April 1 and due on April 8
 - *Homework 2*: released on April 8 and due on April 15
-- *Homework 3*: released on April 15 and due on April 22
+- *Homework 3*: released on April 22 and due on April 29
 - *Homework 4*: released on April 29 and due on May 6
 - *Homework 5*: released on May 6 and due on May 13
 - *Homework 6*: released on May 13 and due on May 20
