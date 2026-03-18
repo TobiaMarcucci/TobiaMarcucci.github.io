@@ -78,7 +78,7 @@ Please use the LaTeX template if you can.
 - For team projects, please add a section that describes the contributions of each team member.
 - For projects that overlap with your research or a project in another class, please clearly denote what parts of the project overlap (or not) with the other efforts.
 
-<h3 style="color: maroon;">Final project</h3>
+<h3 style="color: maroon;">Project proposal</h3>
 
 Halfway through the quarter you will be asked to submit a project proposal.
 
