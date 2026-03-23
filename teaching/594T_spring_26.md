@@ -41,7 +41,7 @@ The instructor will also be available for questions after the end of each lectur
 
 <h3 style="color: maroon;">Lecture notes</h3>
 
-The lecture notes are available at [this link](https://ucsb.box.com/s/au4n6ux1tvuhsygmthxn4ccdnx0zl741) and will be available on Canvas.
+The lecture notes are available at [this link](https://ucsb.box.com/s/dw2r3hfgyvy6hz0ke3pbz1hb9i1nhrsq) and will be available on Canvas.
 We will cover roughly one chapter per week.
 The notes will be continuously improved, updated, and corrected throughout the quarter.
 Initially, you will find only a draft of the complete lecture notes on Canvas.
