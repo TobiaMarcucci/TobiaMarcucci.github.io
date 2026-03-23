@@ -19,8 +19,8 @@ I am seeking highly motivated PhD students to join my newly established research
 
 <h3 style="color: maroon;">News</h3>
 
-- I'll be giving a talk at the [CVXPY Workshop](https://www.cvxpy.org/workshop/2026/).
-- Autonomy Talk titled "[A Tutorial on Graphs of Convex Sets](https://www.youtube.com/watch?v=N-qSSUX83Rk)".
+- WIP [lecture notes](https://ucsb.box.com/s/dw2r3hfgyvy6hz0ke3pbz1hb9i1nhrsq) on optimization and learning for robotics and control.
+- [Talk](https://www.youtube.com/watch?v=vnfMD4t3lkU&list=PL8qScBgiT5TEYdKBix1reNLe7w_M7lHr_&index=9&t=856s) on GCS at the [CVXPY workshop](https://www.cvxpy.org/workshop/2026/).
 - [New paper](https://arxiv.org/pdf/2510.20184) that builds on my PhD thesis. I encourage you to check it out if you’re interested in GCS. Any feedback is greatly appreciated!
 - Major cleanup to the Python library [GCSOPT](https://github.com/TobiaMarcucci/gcsopt) for solving GCS problems. It’s now pip-installable, thoroughly tested, and (hopefully) straightforward to use.
 - I’ll be co-organizing the [17th World Symposium on the Algorithmic Foundations of Robotics (WAFR)](https://algorithmic-robotics.org), taking place June 15–17, 2026, in Oulu, Finland. I invite you to submit your work: the deadline for paper submissions is January 15, 2026. Looking forward to seeing you in Finland!
