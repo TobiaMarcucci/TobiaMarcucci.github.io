@@ -109,6 +109,8 @@ Please note that these weights are approximate, and we reserve the right to chan
 The homework will require working knowledge of Python.
 Help will be provided to the students that are not proficient in Python and do not have access to a Python installation, provided that they contact the instructor in a timely manner.
 
+All the coding examples and exercises are available at https://github.com/TobiaMarcucci/olrc-code.
+
 <h3 style="color: maroon;">Collaborations and external resources</h3>
 
 You are encouraged to work with other students on your assignments, and to help other students complete their assignments.
