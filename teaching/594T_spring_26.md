@@ -41,8 +41,15 @@ The instructor will also be available for questions after the end of each lectur
 
 <h3 style="color: maroon;">Lecture notes</h3>
 
-Lecture notes are under preparation.
-Additional relevant textbooks for the interested students will be referenced in the lecture notes.
+The lecture notes will be available on Canvas.
+We will cover roughly one chapter per week.
+The notes will be continuously improved, updated, and corrected throughout the quarter.
+Initially, you will find only a draft of the complete lecture notes on Canvas.
+Each week, I will upload a separate file corresponding to the chapter to be discussed in the upcoming lectures (and update the main lecture note file accordingly).
+
+You should download the weekly chapters for studying, and can refer to the main lecture note file to see what the class will cover in the future.
+
+Additional textbooks and references for students interested in deeper study will be cited within the lecture notes.
 
 <h3 style="color: maroon;">Homework</h3>
 
