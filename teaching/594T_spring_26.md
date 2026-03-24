@@ -79,8 +79,9 @@ The final project will be evaluated through:
 - A final video of at most 3 minutes for a team of one person, 4 minutes for a team of two people, and 5 minutes for a team of four people.
 
 About the final report:
-- It should be written using the [IEEE template for conference proceedings](https://www.ieee.org/conferences/publishing/templates).
-Please use the LaTeX template if you can.
+- Please use LaTeX, it is a great tool to know how to use!
+- Use the [IEEE LaTeX template for conference proceedings](https://www.ieee.org/conferences/publishing/templates).
+Also available on [Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
 - Write a summary of what you accomplished during your project. Write it, as much as possible, like a conference paper. You should include: abstract, introduction, literature review, technical approach, results, discussion about strengths and limitations, and potential next steps.
 - For team projects, please add a section that describes the contributions of each team member.
 - For projects that overlap with your research or a project in another class, please clearly denote what parts of the project overlap (or not) with the other efforts.
@@ -91,7 +92,8 @@ Halfway through the quarter, on April 22, you will have to submit a project prop
 This is intended to help you start thinking seriously about your final project early in the quarter and to receive feedback before committing significant effort.
 A well-prepared proposal will make the remainder of the project substantially smoother.
 
-Your proposal should be about one page (not more than two) and clearly describe the following elements:
+Your proposal should be about one page (not more than two), and use the same template as the final project.
+It should clearly describe the following elements:
 - *Project topic and motivation*: What problem do you want to study, and why is it interesting or relevant? Your project should be well aligned with the material covered in the course. Try to be specific about which concepts, methods, or techniques from the class you plan to use.
 - *Technical approach*: Provide a concrete plan for how you intend to carry out the project. This may include developing a new method, extending an existing one, or implementing and evaluating known techniques on a particular problem. At this stage, clarity and feasibility are more important than ambition.
 - *Expected outcomes*: What do you hope to demonstrate by the end of the project? For example, do you aim to improve an algorithm, or provide empirical validation through simulations or experiments? The quarter is short, so it is important to choose a project that is appropriately scoped. Indicate what you consider to be the "minimal viable project" and any possible extensions if time permits.
@@ -105,8 +107,8 @@ You are strongly encouraged to discuss your ideas in office hours before submitt
 <h3 style="color: maroon;">Grading</h3>
 
 Your grade will be assigned roughly according to the following percentages:
-- Homework 30%
-- Project proposal 10%
+- Homework 25%
+- Project proposal 15%
 - Final project 60%
 
 Please note that these weights are approximate, and we reserve the right to change them later.
