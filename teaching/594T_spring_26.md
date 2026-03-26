@@ -55,7 +55,7 @@ Additional textbooks and references for students interested in deeper study will
 
 - Homework will be released on Canvas approximately every week, and be due the same day of the following week by midnight.
 - If answers are not accompanied by satisfactory explanations (e.g., all intermediate steps or clearly readable handwriting), no credit will be given.
-- Late homework will automatically incur a 10% grade deduction per day of delay, and will not be accepted after 2 days of delay (midnight).
+- Late homework will automatically incur a 10% grade deduction per day of delay, and will not be accepted after 3 days of delay (midnight).
 - Deadlines are strict: a homework submitted at 11:59 pm on the due date is considered on time, while a submission at 12:00 am is considered late, with no exceptions. Please begin your submission early to allow time to resolve any unexpected issues.
 - In the rare case of insurmountable technical problems (e.g., Canvas is unavailable), email your homework solution to me at marcucci@ucsb.edu before the deadline. Any email received after midnight will incur the 10% grade deduction described above.
 
