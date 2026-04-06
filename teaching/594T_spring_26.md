@@ -29,13 +29,13 @@ Prior exposure to control theory and/or robotics is a plus, but not required, as
 
 <h3 style="color: maroon;">Lectures</h3>
 
-- Monday and Wednesday from 4:00pm to 5:50pm (starting March 30)
-- Room PHELP 1448
+- Monday and Wednesday from 4pm to 5:50pm (starting March 30)
+- Classroom PHELP 1448
 
 <h3 style="color: maroon;">Office hours</h3>
 
-- One day a week to be decided
-- Location: 5155 Harold Frank Hall
+- Friday 11am to 12pm
+- Harold Frank Hall, Office 5155
 
 The instructor will also be available for questions after the end of each lecture.
 
