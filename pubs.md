@@ -6,15 +6,15 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
-**Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**  
-Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
-Under review in World Symposium on the Algorithmic Foundations of Robotics (WAFR). 2026.  
-[[pdf]](https://arxiv.org/abs/2507.10878)
-
 **A Unified and Scalable Method for Optimization over Graphs of Convex Sets**  
 Tobia Marcucci.  
 Under review in Mathematical Programming. 2025.  
 [[pdf]](https://arxiv.org/pdf/2510.20184)
+
+**Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**  
+Savva Morozov, Tobia Marcucci, Bernhard P. Graesdal, Alexandre Amice, Pablo A. Parrilo, and Russ Tedrake.  
+World Symposium on the Algorithmic Foundations of Robotics (WAFR). 2026.  
+[[pdf]](https://arxiv.org/abs/2507.10878)
 
 **A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets**  
 Tobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, and Andrew Marchese.  
