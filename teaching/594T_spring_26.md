@@ -88,7 +88,7 @@ Also available on [Overleaf](https://www.overleaf.com/latex/templates/ieee-confe
 
 <h3 style="color: maroon;">Project proposal</h3>
 
-Halfway through the quarter, on April 22, you will have to submit a project proposal.
+Halfway through the quarter, on April 29, you will have to submit a project proposal.
 This is intended to help you start thinking seriously about your final project early in the quarter and to receive feedback before committing significant effort.
 A well-prepared proposal will make the remainder of the project substantially smoother.
 
@@ -149,9 +149,9 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 5*: April 13
 - *Lecture 6*: April 15
 - *Lecture 7*: April 20
-- *Lecture 8*: April 22 (project proposal due)
+- *Lecture 8*: April 22
 - *Lecture 9*: April 27
-- *Lecture 10*: April 29
+- *Lecture 10*: April 29 (project proposal due)
 - *Lecture 11*: May 4
 - *Lecture 12*: May 6
 - *Lecture 13*: May 11
