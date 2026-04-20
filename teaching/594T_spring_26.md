@@ -82,27 +82,41 @@ About the final report:
 - Please use LaTeX, it is a great tool to know how to use!
 - Use the [IEEE LaTeX template for conference proceedings](https://www.ieee.org/conferences/publishing/templates).
 Also available on [Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
-- Write a summary of what you accomplished during your project. Write it, as much as possible, like a conference paper. You should include: abstract, introduction, literature review, technical approach, results, discussion about strengths and limitations, and potential next steps.
+- Write a summary of what you accomplished during your project. Write it, as much as possible, like a conference paper.
+You should include: abstract, introduction, literature review, technical approach, results, discussion about strengths and limitations, and potential next steps.
 - For team projects, please add a section that describes the contributions of each team member.
 - For projects that overlap with your research or a project in another class, please clearly denote what parts of the project overlap (or not) with the other efforts.
 
 <h3 style="color: maroon;">Project proposal</h3>
 
-Halfway through the quarter, on April 29, you will have to submit a project proposal.
-This is intended to help you start thinking seriously about your final project early in the quarter and to receive feedback before committing significant effort.
-A well-prepared proposal will make the remainder of the project substantially smoother.
+On April 29, you will be asked to submit a project proposal.
+This assignment is intended to help you begin thinking seriously about your final project and to receive feedback before committing significant effort.
+The goal is not to lock you into a rigid plan, but rather to ensure that you have identified a reasonable direction early on.
+A well-thought proposal will make the remainder of the project substantially smoother.
+You are also encouraged to discuss your ideas during office hours before submitting.
 
-Your proposal should be about one page (not more than two), and use the same template as the final project.
-It should clearly describe the following elements:
-- *Project topic and motivation*: What problem do you want to study, and why is it interesting or relevant? Your project should be well aligned with the material covered in the course. Try to be specific about which concepts, methods, or techniques from the class you plan to use.
-- *Technical approach*: Provide a concrete plan for how you intend to carry out the project. This may include developing a new method, extending an existing one, or implementing and evaluating known techniques on a particular problem. At this stage, clarity and feasibility are more important than ambition.
-- *Expected outcomes*: What do you hope to demonstrate by the end of the project? For example, do you aim to improve an algorithm, or provide empirical validation through simulations or experiments? The quarter is short, so it is important to choose a project that is appropriately scoped. Indicate what you consider to be the "minimal viable project" and any possible extensions if time permits.
-- *Preliminary references*: List a few relevant papers, books, or other resources that will inform your work. This will help ensure that your project is grounded in existing literature.
-- *Team information (if applicable)*: If you are working in a team (at most 3 people), list all members and briefly describe how you expect to divide the work. Keep in mind that expectations will scale with the number of team members.
-- *Overlap with other work (if applicable)*: If your project is related to your current research or another class, clearly state this and explain what portion of the work is new for this course.
-
-The goal of the proposal is not to lock you into a rigid plan, but to ensure that you have identified a clear, feasible direction early on.
-You are strongly encouraged to discuss your ideas in office hours before submitting the proposal.
+Your proposal should be approximately one page and follow the same template as the final project.
+**The proposal must include the following sections:**
+- *Goals and motivation*:
+Describe the problem you intend to study and explain why it is interesting.
+The project should be well aligned with the material covered in the course.
+Possible directions include developing a new method, extending an existing one, or implementing and evaluating known techniques on a specific problem or robotic system.
+At this stage, clarity and feasibility are more important than ambition.
+- *Technical approach*:
+Provide a tentative description of the concepts and techniques you plan to use to achieve your goals.
+When possible, reference specific sections or chapters of the lecture notes.
+You are also encouraged to look ahead at later chapters to identify techniques that may be relevant, even if they have not yet been covered in class.
+If so, you may list them as potential components of your project.
+You may also cite relevant papers, books, or other resources to demonstrate that your project is grounded in existing literature.
+- *Milestones*:
+Outline the steps you plan to take to achieve your goals, including intermediate milestones.
+This is important to ensure that you have results to present at the end of the quarter, even if you encounter unexpected issues.
+For example, if your project involves optimizing the motion of a quadrotor, you might first demonstrate your approach on a 2D model with basic visualizations, and only later move to a more advanced 3D simulation environment.
+- *Team information (if applicable)*:
+If you are working in a team (maximum of three members), list all members and briefly describe how you plan to divide the work.
+Expectations will scale with the number of team members.
+- *Overlap with other work (if applicable)*:
+If your project overlaps with your current research, or the project of another course, clearly state this and explain what portion of the work is new for this class.
 
 <h3 style="color: maroon;">Grading</h3>
 
