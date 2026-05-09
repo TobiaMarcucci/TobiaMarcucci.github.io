@@ -8,7 +8,7 @@ permalink: "/publications"
 
 **A Unified and Scalable Method for Optimization over Graphs of Convex Sets**  
 Tobia Marcucci.  
-Under review in Mathematical Programming. 2025.  
+Under review in Mathematical Programming Computation. 2025.  
 [[pdf]](https://arxiv.org/pdf/2510.20184)
 
 **Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets**  
