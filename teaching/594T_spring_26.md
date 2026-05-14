@@ -76,7 +76,7 @@ Here are some guidelines:
 
 The final project will be evaluated through:
 - A final report of up to 3 pages.
-- A final presentation will take place on **June 9, from 7:30 PM to 10:30 PM, in PHELP 1448 (our usual classroom)**. You must prepare slides for the presentation. Each individual project will be allotted 5 minutes, while projects completed by two or more students will be allotted 8 minutes.
+- A final presentation will take place on **June 9, from 7:30pm to 10:30pm, in PHELP 1448 (our usual classroom)**. You are asked to prepare slides for the presentation. Each individual project will be allotted 5 minutes to present, while projects completed by two students will be given 8 minutes. Please be sure to not exceed the time allocated for your presentation. After the presentation, you may be asked questions by the teacher, the grader, or the other students.
 
 About the final report:
 - Please use LaTeX, it is a great tool to know how to use!
