@@ -76,7 +76,7 @@ Here are some guidelines:
 
 The final project will be evaluated through:
 - A final report of up to 3 pages.
-- A final video of at most 3 minutes for a team of one person, 4 minutes for a team of two people, and 5 minutes for a team of four people.
+- A final presentation will take place on **June 9, from 7:30 PM to 10:30 PM, in PHELP 1448 (our usual classroom)**. You must prepare slides for the presentation. Each individual project will be allotted 5 minutes, while projects completed by two or more students will be allotted 8 minutes.
 
 About the final report:
 - Please use LaTeX, it is a great tool to know how to use!
@@ -173,10 +173,11 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 15*: May 18
 - *Lecture 16*: May 20
 - *Lecture 17*: May 27
-- *Lecture 18*: June 1
-- *Lecture 19*: June 3 (project report and video due)
+- No lecture on June 1 (substitued by on-demand office hours on Zoom)
+- No lecture on June 3 (substitued by on-demand office hours on Zoom)
+- *Final project presentation*: June 9
 
-<h3 style="color: maroon;">Tentative homework schedule</h3>
+<!-- <h3 style="color: maroon;">Tentative homework schedule</h3>
 
 - *Homework 1*: released on April 1 and due on April 8
 - *Homework 2*: released on April 8 and due on April 15
@@ -184,4 +185,4 @@ Please note that we might skip some of the material in the lecture notes.
 - *Homework 4*: released on April 29 and due on May 6
 - *Homework 5*: released on May 6 and due on May 13
 - *Homework 6*: released on May 13 and due on May 20
-- *Homework 7*: released on May 20 and due on May 27
+- *Homework 7*: released on May 20 and due on May 27 -->
