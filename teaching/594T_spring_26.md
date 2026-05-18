@@ -75,7 +75,7 @@ Here are some guidelines:
 <h3 style="color: maroon;">Evaluation of final project</h3>
 
 The final project will be evaluated through:
-- A final report of up to 3 pages.
+- A final report of up to 3 pages **due on June 8**. Late submissions will not be accepted. If you encounter any issues, please contact the instructor as soon as possible.
 - A final presentation will take place on **June 9, from 7:30pm to 10:30pm, in PHELP 1448 (our usual classroom)**. You are asked to prepare slides for the presentation. Each individual project will be allotted 5 minutes to present, while projects completed by two students will be given 8 minutes. Please be sure to not exceed the time allocated for your presentation. After the presentation, you may be asked questions by the teacher, the grader, or the other students.
 
 About the final report:
