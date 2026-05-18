@@ -150,11 +150,7 @@ The use of AI-enhanced tools (such as ChatGPT) is prohibited.
 
 We adhere to the [UCSB Academic Integrity Policy](https://studentconduct.sa.ucsb.edu/academic-integrity).
 
-<h3 style="color: maroon;">Lectures</h3>
-
-The lectures will follow the lecture notes.
-After each lecture, I will list below the sections that were covered in the lecture.
-Please note that we might skip some of the material in the lecture notes.
+<h3 style="color: maroon;">Dates</h3>
 
 - *Lecture 1*: March 30
 - *Lecture 2*: April 1
@@ -175,6 +171,7 @@ Please note that we might skip some of the material in the lecture notes.
 - *Lecture 17*: May 27
 - No lecture on June 1 (substitued by on-demand office hours on Zoom)
 - No lecture on June 3 (substitued by on-demand office hours on Zoom)
+- *Final project report due*: June 8
 - *Final project presentation*: June 9
 
 <!-- <h3 style="color: maroon;">Tentative homework schedule</h3>
