@@ -9,7 +9,7 @@ layout: page
 <img src="me.jpg" alt="drawing" width="350px"/>
 </p>
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering at the University of California, Santa Barbara (UCSB)](https://www.ece.ucsb.edu) and an Amazon Scholar.
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering at the University of California, Santa Barbara (UCSB)](https://www.ece.ucsb.edu) and an [Amazon Scholar](https://www.amazon.science/scholars).
 My research is centered on Graphs of Convex Sets (GCS), a new framework for decision making that blends combinatorial and convex optimization.
 If you want to know more about GCS, you can [watch my thesis defense](https://www.youtube.com/watch?si=mfF1A1s-H87eznmV&v=rSbpfAVF_7c&feature=youtu.be) or [read this paper](https://arxiv.org/pdf/2510.20184).
 
