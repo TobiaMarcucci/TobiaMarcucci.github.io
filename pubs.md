@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**Biconvex Optimization for Smooth Minimum-Time Trajectories around Convex Obstacles**  
+Peter Werner, Tobia Marcucci, and Daniela Rus.  
+Under review in IEEE Transactions on Robotics (TRO). 2026.  
+[[pdf]](https://arxiv.org/pdf/2608.02834)
+
 **A Unified and Scalable Method for Optimization over Graphs of Convex Sets**  
 Tobia Marcucci.  
 Under review in Mathematical Programming Computation. 2025.  
