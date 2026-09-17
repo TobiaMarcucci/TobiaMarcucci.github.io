@@ -6,6 +6,11 @@ permalink: "/publications"
 
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
+**An Efficient Algorithm for Minimum-Pressure Growth Planning of Vine Robots**  
+Andres C. Torres, Tobia Marcucci, and Elliot W. Hawkes.  
+Under review in International Conference on Robotics and Automation (ICRA). 2027.  
+[[pdf]](https://arxiv.org/abs/2609.18070)
+
 **Biconvex Optimization for Smooth Minimum-Time Trajectories around Convex Obstacles**  
 Peter Werner, Tobia Marcucci, and Daniela Rus.  
 Under review in IEEE Transactions on Robotics (TRO). 2026.  
