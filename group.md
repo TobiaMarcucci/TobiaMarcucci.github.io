@@ -13,7 +13,7 @@ The Robot Optimization and Learning Lab (ROLL) develops the mathematical foundat
 ### Graduate students
 
 - [Andres Torres](https://www.hawkeslab.com/andres-torres-about) (co-advised with Elliot Hawkes)
-- [Cayetana Salinas Rodriguez](https://www.linkedin.com/in/cayetana-salinas/) (co-advised with Jason Marden)
+- [Cayetana Salinas Rodríguez](https://www.linkedin.com/in/cayetana-salinas/) (co-advised with Jason Marden)
 - [John-Paolo Casasanta](https://www.linkedin.com/in/john-paolo-casasanta-070105224/)
 - [Jonathan Lane](https://www.linkedin.com/in/jonathan-lane-58b226233/)
 - [Yufeiyang Gao](https://yufeiyg.github.io/) (co-advised with James Preiss)
