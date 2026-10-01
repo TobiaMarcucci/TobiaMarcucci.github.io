@@ -5,7 +5,7 @@ permalink: "/group"
 ---
 
 <p align="center">
-<img src="group.jpg"  width="350px"/>
+<img src="group.jpg"  width="500px"/>
 </p>
 
 The Robot Optimization and Learning Lab (ROLL) develops the mathematical foundations of high-performance robot planning, control, and learning.
