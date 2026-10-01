@@ -17,7 +17,7 @@ If you want to know more about GCS, you can [watch my thesis defense](https://ww
 
 I am seeking highly motivated PhD students to join my newly established research group at UCSB. The research will focus on developing novel optimization algorithms for robot motion planning and control. For an example of this research direction, you can view [my PhD thesis](https://dspace.mit.edu/handle/1721.1/156598). Candidates with a background in robotics and/or optimization are strongly encouraged to apply. The admission process is handled by the ECE department, and the deadline for applications is December 15, 2025. Additional information can be found [here](https://www.ece.ucsb.edu/grad/apply). If you are interested in applying or would like more information about these positions, feel free to email me. -->
 
-<h3 style="color: maroon;">News</h3>
+### News
 
 - [Talk](https://www.youtube.com/watch?v=R9DX7Qxf01c&t=806s) on GCS at the [ICRA Frontiers of Optimization for Robotics Workshop](https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home).
 - [New paper](https://arxiv.org/pdf/2510.20184) that builds on my PhD thesis. I encourage you to check it out if you’re interested in GCS. Any feedback is greatly appreciated!

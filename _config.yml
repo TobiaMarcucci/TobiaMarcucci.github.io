@@ -7,9 +7,10 @@ github_username: TobiaMarcucci
 theme: minima
 
 header_pages:
-  - research.md
+  # - research.md
   - pubs.md
+  - group.md
+  - teaching.md
   - bio.md
   - cv.md
-  - teaching.md
   - contacts.md
